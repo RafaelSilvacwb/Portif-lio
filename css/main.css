@@ -106,6 +106,7 @@ p.lead {
 	font-size: 2rem;
 	line-height: 1.8;
 	color: #888888;
+	text-align: center;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -943,7 +944,7 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
+	background: black;
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
@@ -1128,7 +1129,7 @@ header .logo a {
 
 
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background-color: black no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
