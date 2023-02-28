@@ -944,12 +944,12 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: black;
-	min-width: 220px;
-	min-height: 66px;
+	background: transparent;
+	min-width: 280px;
+	min-height: 100px;
 	position: absolute;
-	left: 90px;
-	top: 0;
+	left: 0px;
+	top: 20px;
 }
 header .logo {
 	float: left;
